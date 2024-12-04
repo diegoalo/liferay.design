@@ -81,12 +81,6 @@
       instagram: 'noguchika'
       website: https://www.ngcka.biz/
   alumni: true
-- id: David Aragonés
-  title: Staff Product Designer
-  active: true
-  icon: fa_universal_access
-  startDate: 2016-08-22
-  office: Madrid
 - id: Daniela de la Garza
   title: Communication Designer
   active: false
@@ -97,6 +91,24 @@
   links:
       website: http://www.danieladelagarza.info
   alumni: true
+- id: David Aragonés
+  title: Staff Product Designer
+  active: true
+  icon: fa_universal_access
+  startDate: 2016-08-22
+  office: Madrid
+  - id: Diego Alonso
+  title: Assoc Product Designer
+  active: true
+  icon: fa_universal_access
+  startDate: 2024-11-19
+  office: Madrid
+  links:
+      figma: 'diegoalo'
+      github: 'diegoalo'
+      instagram: '_diegoalo'
+      twitter: '_diegoalo'
+      linkedin: 'diegoalo'
 - id: Déborah Silva
   title: Product Designer
   active: true
